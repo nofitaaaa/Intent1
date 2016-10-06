@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity
                goHasil();
             }
         });
+
+        setTitle("Input");
     }
 
     private void goHasil()

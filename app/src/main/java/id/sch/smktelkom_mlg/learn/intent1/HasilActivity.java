@@ -25,7 +25,7 @@ public class HasilActivity extends AppCompatActivity
         TextView tvHasil = (TextView) findViewById(R.id.textViewHasil);
         tvHasil.setText(nama + " Lahir pada tahun " + tahunLahir);
 
-        setTitle("Input");
+        setTitle("Hasil");
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
