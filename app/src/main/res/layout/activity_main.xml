@@ -16,7 +16,7 @@
         android:text="Hello World!" />
 
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="352dp"
         android:layout_height="wrap_content"
         android:text="Hitung"
         android:id="@+id/buttonHitung" />
